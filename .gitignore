@@ -1,0 +1,11 @@
+# Ignore all executable files (files with execute permission)
+!*/
+
+# Ignore build and temporary files
+*.o
+*.out
+*.exe
+*.pyc
+*.pyo
+*.tmp
+*.swp
