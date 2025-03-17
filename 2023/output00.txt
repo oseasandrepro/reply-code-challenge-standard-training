@@ -1,0 +1,5 @@
+1 4 D R U U U
+1 2 D L L U U U
+5 5 D R D R
+7 5 R D
+5 3 U R
